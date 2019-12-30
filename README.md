@@ -1,5 +1,5 @@
-# Data Structures
-Lab assignments during data structures course at Chalmers.
+# Data structures and algorithms
+Some lab assignments from data structures and algorithms course at Chalmers.
 
 ## Description
 
